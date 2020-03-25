@@ -44,6 +44,7 @@
 | [Visualizing the spread of virus in a population](https://corona-simulation.now.sh/) | Enostavna vizualizacija širjenja virusa med populacijo z možnostjo nastavljanja faktorjev (smrtnost, viralnost,..); [Swizec Teller](https://swizec.com/) |
 | [Visualizing how viruses spread in a population](https://reactfordataviz.com/articles/corona-simulation/) | Članek - vizualizacija širjenja virusa med populacijo z možnostjo nastavljanja faktorjev + primerjava z nekaterimi drugimi epidemijami + "how to" programiranja simulacij; [Swizec Teller](https://swizec.com/)- |
 | [Outbreak - playable disease simulaton](https://meltingasphalt.com/interactive/outbreak/) | Enako kot Swizec, ampak drugače :-) [Kevin Simler](https://meltingasphalt.com/about/) |
+| [Corona virus - simulacija](https://covid-simulacija.si/) | Enako kot Swizec, ampak še drugače :-) [Leon Škrilec](https://github.com/LeonSkrilec) |
 | [Coronavirus: Flattening the curve](https://covid19.us.to/#!) | Članek - vizualizacija širjenja virusa med populacijo;  [Uroš Knupleš](https://github.com/uroskn) |
 | [Simulacija karantena/brez karantene za SLO](https://twitter.com/ZaplotnikZiga/status/1239848814879612928) | Simulacija širitve COVID 19 z 2.05 mio vozlišči in do 10 mio povezavami [Žiga Zaplotnik](https://twitter.com/ZaplotnikZiga) |
 | [Koliko okuženih z virusom COVID-19 lahko pričakujemo v Sloveniji? (17.3.)](https://damijan.org/2020/03/13/live-koliko-okuzenih-z-virusom-covid-19-lahko-pricakujemo-v-sloveniji/) | J.P. Damjan model |
